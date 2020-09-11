@@ -1,6 +1,7 @@
 # UploadFile
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
+It is only the front end of upload a file to the backend. The corresponding backend spring-boot2 project can be found [here](https://github.com/astrapi69/resource-system/tree/develop)
 
 ## Development server
 
